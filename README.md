@@ -2,12 +2,12 @@
 Collaborative Filtering and Group Recommendations in MovieLens 100K
 The steps involved are;
 - transform_csv_dataframe_to_user_movies_matrix
-# - pearson_similarity
-# - prepare_user_movie_matrix_for_cf_matrix
-# - add_similarity_column_to_cf_matrix
-# - limit_neighborhood
-# - predict_score
-# - calculate_prediction_using_pearson_similarity
+ - pearson_similarity
+ - prepare_user_movie_matrix_for_cf_matrix
+ - add_similarity_column_to_cf_matrix
+ - limit_neighborhood
+ - predict_score
+ - calculate_prediction_using_pearson_similarity
 Transform CSV DataFrame to User-Movies Matrix
 The transform_csv_dataframe_to_user_movies_matrix function transforms the DataFrame resulted from the dataset CSV into a user-movies matrix where the rows represent users, the columns represent movies, and the values represent the ratings given by users to movies.
 
