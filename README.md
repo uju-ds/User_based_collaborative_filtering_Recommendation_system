@@ -11,7 +11,7 @@ The steps involved are;
  - limit_neighborhood
  - predict_score
  - calculate_prediction_using_pearson_similarity
-#Explanation of the steps 
+# Explanation of the steps 
 - Transform CSV DataFrame to User-Movies Matrix
 The transform_csv_dataframe_to_user_movies_matrix function transforms the DataFrame resulted from the dataset CSV into a user-movies matrix where the rows represent users, the columns represent movies, and the values represent the ratings given by users to movies.
 
