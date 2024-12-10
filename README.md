@@ -1,6 +1,6 @@
-# User_based_collaborative_filtering_Recommendation_system|group_project
+# User based collaborative filtering Recommendation system| group project
 
-#Group members- UjunwaEdum and Ashkan Khademian
+## Group members- UjunwaEdum and Ashkan Khademian
 
 Collaborative Filtering and Group Recommendations in MovieLens 100K
 The steps involved are;
